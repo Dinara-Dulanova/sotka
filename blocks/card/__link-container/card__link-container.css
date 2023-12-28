@@ -1,0 +1,8 @@
+.card__link-container {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-right: 15px;
+  display: flex;
+  justify-content: flex-end;
+  color: rgba(236, 85, 152, 1)
+}
